@@ -7,5 +7,3 @@ Files:
 2. README.txt
 
 The index.html file contains the basic webpage for this assignment.
-
-change 
